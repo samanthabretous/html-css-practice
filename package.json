@@ -1,0 +1,15 @@
+{
+  "name": "ogilvy",
+  "version": "1.0.0",
+  "description": "Create a responsive layout with the following properties:",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "keywords": [],
+  "author": "Samantha Bretous <sam@samanthabretous.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
